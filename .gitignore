@@ -1,0 +1,15 @@
+# Compiled files
+*.exe
+*.class
+*.o
+*.pyc
+__pycache__/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Screenshots
+*.png
+*.jpg
